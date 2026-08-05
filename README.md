@@ -4,62 +4,61 @@ This project demonstrates core AWS Identity and Access Management (IAM) concepts
 It is designed to build foundational Cloud Security skills and prepare for AWS Cloud Practitioner and Security certifications.
 
 **Objectives**
-Create IAM users and groups
+- Create IAM users and groups
 
-Apply least privilege access
+- Apply least privilege access
 
-Write custom JSON policies
+- Write custom JSON policies
 
-Enable MFA for secure authentication
-
-Analyze CloudTrail logs for security events
+- Enable MFA for secure authentication
+  
+- Analyze CloudTrail logs for security events
 
 **Tools Used**
-AWS Management Console
+- AWS Management Console
 
-IAM
+- IAM
 
-CloudTrail
+- CloudTrail
 
-JSON policy editor
+- JSON policy editor
 
 **Project Steps**
-Created IAM users:
+- Created IAM users:
 
-(Write what users I created)
+- (Write what users I created)
 
-Created IAM groups:
+- Created IAM groups:
 
-(Write what groups I created)
+- (Write what groups I created)
 
-Applied least privilege:
+- Applied least privilege:
+  - (Explain what permissions I gave and why)
 
-(Explain what permissions I gave and why)
+  - Created custom JSON policies:
 
-Created custom JSON policies:
+  - (Describe my policy and what it allows/denies)
 
-(Describe my policy and what it allows/denies)
+- Enabled MFA:
 
-Enabled MFA:
+  - (Explain how I set up MFA)
 
-(Explain how I set up MFA)
+  - Analyzed CloudTrail logs:
 
-Analyzed CloudTrail logs:
-
-(Describe what events I looked for)
+  - (Describe what events I looked for)
 
 **Screenshots**
-IAM users
+- IAM users
 
-IAM groups
+- IAM groups
 
-JSON policy
+- JSON policy
 
-MFA setup
+- MFA setup
 
-CloudTrail logs
+- CloudTrail logs
 
 (I will upload these later)
 
 **What I Learned**
-(Write 3–5 bullet points about what I learned)
+- (Write 3–5 bullet points about what I learned)
